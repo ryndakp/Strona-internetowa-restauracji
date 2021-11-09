@@ -59,7 +59,7 @@
 2. W wyszukiwarce wpisujemy localhost/phpmyadmin i zatwierdzamy
 3. Logujemy sie loginem: "root", a hasło pozostawiamy puste
 4. Tworzymy nową bazę danych i importujemy do niej plik restauracja.sql
-5. Pliki z paczki P&J.zip wypakowywujemy, kopiujemy i wklejamy do folderu C:\xampp\htdocs
+5. Pliki z paczki P&J.zip wypakowywujemy, kopiujemy i wklejamy do folderu xamppa
 6. Ponownie uruchamiamy przeglądarke i wpisujemy localhost 
 7. Na stronie aby się zalogować klikamy w prawym górnym rogu Sing Up (dane do logowania są podane w punkcie poniżej)
 8. Aby utworzyć nowe konto klikamy 'Register Here' i podajemy dane potrzebne do utworzenia konta
