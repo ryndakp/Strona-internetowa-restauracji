@@ -73,3 +73,4 @@
 [Przydatny link przy tworzeniu plików *.md ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [logo]: https://gallery.dpcdn.pl/imgc/UGC/34567/g_-_960x640_-_s_x20131110194052_0.jpg "Strona główna"
+Grafiki wykorzystane do utworzenia serwisu pochodzą ze strony www.pixabay.com i podlegają licencji Pixabay License. Grafiki są darmowe i nie wymagają przypisania autora.
